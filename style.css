@@ -9,4 +9,10 @@ header {
 table {
     border: 1px solid black;
     padding-right: 20px;
+    line-height: 20px;
+}
+#titulo {
+    font-size: xx-large;
+    color: brown;
+    font-family: sans-serif;
 }
