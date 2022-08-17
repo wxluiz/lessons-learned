@@ -16,3 +16,19 @@ table {
     color: brown;
     font-family: sans-serif;
 }
+
+article {
+    width: 40%;
+    display: inline-block;
+    margin-top: 0;
+}
+aside {
+    display: inline-block;
+    width: 18.9%;
+    padding-left: 450px;
+    text-align: center;
+}
+
+footer {
+    color: blue;
+}
